@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Jailer",
+      "url": "https://www.cinejosh.com/newsimg/newsmainimg/rajinikanth-jailer-latest-update_b_2710220511.jpg",
+      "link": "https://www.youtube.com/embed/gB2zKZxESTg"
+    },
+    {
+      "id": "2",
+      "caption": "React",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_I5APywT-GzqrrqGRf-8HHN7lTukHohD6rTte5XSig&s",
+      "link": "https://www.youtube.com/embed/rR_2ti4l3nM"
+    }
+  ],
+  "watchhistory": [
+    {
+      "caption": "Jailer",
+      "link": "https://www.youtube.com/embed/gB2zKZxESTg",
+      "timeStamp": "04/02/2024, 08:12:39 AM",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Jailer",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Jailer",
+          "url": "https://www.cinejosh.com/newsimg/newsmainimg/rajinikanth-jailer-latest-update_b_2710220511.jpg",
+          "link": "https://www.youtube.com/embed/gB2zKZxESTg"
+        }
+      ]
+    },
+    {
+      "categoryName": "Premalu",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "React",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_I5APywT-GzqrrqGRf-8HHN7lTukHohD6rTte5XSig&s",
+          "link": "https://www.youtube.com/embed/rR_2ti4l3nM"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
